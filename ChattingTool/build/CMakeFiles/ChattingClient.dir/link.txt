@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ChattingClient.dir/src/client.cpp.o -o ../release/ChattingClient  -Wl,-rpath,/home/nby9hc/Learning/cpp/5thWeek/ChattingTool/release/lib ../release/lib/libSocketClient.so 

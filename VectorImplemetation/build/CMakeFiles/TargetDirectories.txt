@@ -1,0 +1,6 @@
+/home/nby9hc/Learning/cpp/5thWeek/Exercise_1/build/CMakeFiles/Execise_1_week_5.dir
+/home/nby9hc/Learning/cpp/5thWeek/Exercise_1/build/CMakeFiles/edit_cache.dir
+/home/nby9hc/Learning/cpp/5thWeek/Exercise_1/build/CMakeFiles/rebuild_cache.dir
+/home/nby9hc/Learning/cpp/5thWeek/Exercise_1/build/src/CMakeFiles/MyVector.dir
+/home/nby9hc/Learning/cpp/5thWeek/Exercise_1/build/src/CMakeFiles/edit_cache.dir
+/home/nby9hc/Learning/cpp/5thWeek/Exercise_1/build/src/CMakeFiles/rebuild_cache.dir

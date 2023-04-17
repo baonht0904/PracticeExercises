@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libMyVector.so -o ../../debug/lib/libMyVector.so CMakeFiles/MyVector.dir/myVector.cpp.o 

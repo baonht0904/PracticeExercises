@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Execise_1_week_5.dir/src/main.cpp.o -o ../debug/Execise_1_week_5  -Wl,-rpath,/home/nby9hc/Learning/cpp/5thWeek/Exercise_1/debug/lib ../debug/lib/libMyVector.so 

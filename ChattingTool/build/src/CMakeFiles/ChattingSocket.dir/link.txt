@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libChattingSocket.so -o ../../debug/lib/libChattingSocket.so CMakeFiles/ChattingSocket.dir/chattingSocket.cpp.o 

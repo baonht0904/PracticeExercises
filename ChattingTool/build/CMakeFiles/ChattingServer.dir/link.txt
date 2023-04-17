@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ChattingServer.dir/src/server.cpp.o -o ../release/ChattingServer  -Wl,-rpath,/home/nby9hc/Learning/cpp/5thWeek/ChattingTool/release/lib ../release/lib/libSocketServer.so 

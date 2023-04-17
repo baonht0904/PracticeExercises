@@ -1,0 +1,8 @@
+/home/nby9hc/Learning/cpp/5thWeek/ChattingTool/build/CMakeFiles/ChattingServer.dir
+/home/nby9hc/Learning/cpp/5thWeek/ChattingTool/build/CMakeFiles/ChattingClient.dir
+/home/nby9hc/Learning/cpp/5thWeek/ChattingTool/build/CMakeFiles/edit_cache.dir
+/home/nby9hc/Learning/cpp/5thWeek/ChattingTool/build/CMakeFiles/rebuild_cache.dir
+/home/nby9hc/Learning/cpp/5thWeek/ChattingTool/build/src/CMakeFiles/SocketServer.dir
+/home/nby9hc/Learning/cpp/5thWeek/ChattingTool/build/src/CMakeFiles/SocketClient.dir
+/home/nby9hc/Learning/cpp/5thWeek/ChattingTool/build/src/CMakeFiles/edit_cache.dir
+/home/nby9hc/Learning/cpp/5thWeek/ChattingTool/build/src/CMakeFiles/rebuild_cache.dir
